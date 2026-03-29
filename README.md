@@ -16,6 +16,8 @@ Python 🐍
 Streamlit
 Pandas
 (adicione aqui outras libs que você usou, como Plotly, Matplotlib, etc.)
+
+
 📦 Como rodar localmente
 Clone o repositório:
 git clone https://github.com/seu-usuario/seu-repositorio.git
