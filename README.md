@@ -52,7 +52,7 @@ Este projeto está hospedado no Streamlit Community Cloud e pode ser acessado on
 
 👨‍💻 Autor
 
-Seu Nome
+NATHÁLYA BERNARDO
 🔗 GitHub
 
 📄 Licença
